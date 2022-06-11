@@ -2,9 +2,9 @@
 
 ## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-**I am Nadia, Software Developer in [Ruby on Rails](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) and Data Engineer in [Python](https://towardsdatascience.com/top-10-reasons-why-you-need-to-learn-python-as-a-data-scientist-e3d26539ec00) from Argentina.**
+**I am Nadia, Software Developer in [Ruby on Rails](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) and Data Engineer in [Python](https://towardsdatascience.com/top-10-reasons-why-you-need-to-learn-python-as-a-data-scientist-e3d26539ec00)**
 
-:globe_with_meridians: Currently based in Europe.
+:globe_with_meridians: I'm from Argentina, currently based in Europe.
 
 :woman_technologist: I work as a Full Stack Developer, contributing to frontend and backend in different projects to build web applications.
 

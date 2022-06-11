@@ -73,4 +73,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadiasalmen&theme=light&background=fff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiasalmen&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+![Nadia Salmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiasalmen&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiasalmen&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)

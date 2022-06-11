@@ -25,7 +25,6 @@
 ## Languages and Tools :hammer_and_wrench:
 
 ### Web Dev
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg"  title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"  title="RoR" alt="RoR" width="40" height="40"/>&nbsp;
@@ -69,3 +68,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 </div>
+
+## My Stats :fire:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadiasalmen&theme=light&background=fff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiasalmen&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
